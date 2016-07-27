@@ -1,8 +1,8 @@
 {
 "manifest_version": 2,
-    "name": "NHS Words",
+    "name": "NHS Autocorrector",
     "description": "Modifies phrases related to the ongoing NHS funding crisis.",
-    "version": "1.2",
+    "version": "1.3",
     "content_scripts": [
         {
             "matches": [
