@@ -13,6 +13,7 @@ for (var i = 0; i < elements.length; i++) {
 				var replacedText = replacedText.replace(/NHS overspend/gi, 'chronic underfunding');
 				var replacedText = replacedText.replace(/NHS overspends/gi, 'NHS is underfunded');
 				var replacedText = replacedText.replace(/overspend by hospitals/gi, 'underfunding of hospitals');
+				var replacedText = replacedText.replace(/overspending/gi, 'underfunding');
 				var replacedText = replacedText.replace(/overspend/gi, 'underfunding');
 				var replacedText = replacedText.replace(/overspent/gi, 'were underfunded');
 				var replacedText = replacedText.replace(/busting their budgets/gi, 'not receiving necessary funding');
@@ -23,7 +24,6 @@ for (var i = 0; i < elements.length; i++) {
 				var replacedText = replacedText.replace(/deficit/gi, 'underfunding');
 				var replacedText = replacedText.replace(/broken finances/gi, 'underfunding');
 				var replacedText = replacedText.replace(/financial crisis/gi, 'underfunding crisis');
-				var replacedText = replacedText.replace(/overspending/gi, 'underfunding');
 
 				var replacedText = replacedText.replace(/funding gap/gi, 'underfunding');
 				var replacedText = replacedText.replace(/funding shortfall/gi, 'underfunding');

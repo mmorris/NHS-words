@@ -2,7 +2,7 @@
 "manifest_version": 2,
     "name": "NHS Words",
     "description": "Modifies phrases related to the ongoing NHS funding crisis.",
-    "version": "1.1",
+    "version": "1.2",
     "content_scripts": [
         {
             "matches": [
