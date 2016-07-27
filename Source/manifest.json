@@ -1,8 +1,8 @@
 {
 "manifest_version": 2,
-    "name": "NHS Autocorrector",
+    "name": "NHS Overspend Autocorrector",
     "description": "Modifies phrases related to the ongoing NHS funding crisis.",
-    "version": "1.3",
+    "version": "1.4",
     "content_scripts": [
         {
             "matches": [
